@@ -1,0 +1,4 @@
+jsonlines
+transformers
+sentence-transformers
+farm-haystack
